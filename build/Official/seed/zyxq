@@ -1,1 +1,3 @@
-
+CONFIG_TARGET_zyxq=y
+CONFIG_TARGET_zyxq=y
+CONFIG_TARGET_zyxq_DEVICE_generic=y
